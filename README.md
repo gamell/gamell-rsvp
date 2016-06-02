@@ -1,16 +1,9 @@
-gamell.io
+gamell.io RSVP
 =========
 
-A template for your online resume / portfolio. See it live at <a href="http://gamell.io">gamell.io</a>
+A simple wedding RSVP page. [See it live](http://gamell.io/rsvp).
 
-This work is distributed under the MIT License.
-
-Description
------------
-
-This is a plain HTML, JS and CSS website which I use as my resume and portfolio online at http://gamell.io
-
-You can use it "as is", parts of it, modify it, get inspiration etc.
+Mostly inspired in my http://gamell.io portfolio / CV page. Repo [here](https://github.com/gamell/gamell.io)
 
 Usage
 -----
@@ -52,11 +45,4 @@ Libraries used
 - <a href="http://jquery.com/">jQuery</a>: to glue everything together.
 - iOS colors from: http://ios7colors.com/
 - Modified ie6 warning to warn for browsers lower than ie9: https://code.google.com/p/ie6-upgrade-warning/
-
-Inspiration
------------
-
-- Sunburst infographic: <a href="http://bl.ocks.org/mbostock/4063423">this</a>, <a href="http://bl.ocks.org/kerryrodden/7090426">this</a> and <a href="http://www.jasondavies.com/coffee-wheel/">this</a>.
-- <a href="http://bl.ocks.org/dwtkns/4973620">World globe</a>
-- General design and colors: iOS7
 
